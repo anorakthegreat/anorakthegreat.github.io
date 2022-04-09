@@ -3,6 +3,8 @@ VERSION:3.0
 FN:Sanjan Sen
 N:Sanjan;Sen;;;
 TEL;TYPE=CELL:(650)542-9871
+EMAIL;TYPE=INTERNET;TYPE=HOME:sanjanksen@gmail.com
 item1.X-ABLabel:
 BDAY:20070430
+CATEGORIES:myContacts
 END:VCARD
